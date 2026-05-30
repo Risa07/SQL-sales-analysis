@@ -50,6 +50,42 @@ Evaluated order distribution to understand regional demand patterns.
 * Business Insight Generation
 * Data Aggregation
 * Analytical Thinking
+
+  ## Project Outcomes
+
+Through SQL-based analysis, several business insights were identified:
+
+* The West region generated the highest sales revenue among all regions.
+* Sales performance varied significantly across regions, highlighting opportunities for targeted business strategies.
+* Category-level analysis helped identify the strongest revenue contributors.
+* Customer-level analysis revealed key customers responsible for a significant portion of sales.
+* Regional order distribution provided insights into market demand patterns.
+
+## Skills Demonstrated
+
+### Technical Skills
+
+* SQL Query Writing
+* Data Aggregation
+* Data Analysis
+* Business Intelligence
+* MySQL Workbench
+
+### Business Skills
+
+* Insight Generation
+* Trend Analysis
+* Decision Support
+* Performance Evaluation
+* Data-Driven Problem Solving
+
+## Future Improvements
+
+* Incorporate larger datasets for deeper analysis.
+* Build interactive dashboards using Power BI.
+* Apply advanced SQL concepts such as JOINs, Subqueries, Window Functions, and CTEs.
+* Perform customer segmentation and profitability analysis.
+
 ## Author
 Shraddha | MBA (Operations & Data Science)
 Aspiring Business Analyst | Data Analytics Enthusiast
