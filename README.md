@@ -89,5 +89,3 @@ Through SQL-based analysis, several business insights were identified:
 ## Author
 Shraddha | MBA (Operations & Data Science)
 Aspiring Business Analyst | Data Analytics Enthusiast
-Shraddha | MBA (Operations & Data Science)
-Aspiring Business Analyst | Data Analytics Enthusiast
