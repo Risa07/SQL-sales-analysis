@@ -22,3 +22,10 @@ FROM train_cleaned
 GROUP BY `Customer Name`
 ORDER BY Total_Sales DESC
 LIMIT 10;
+
+#-- Orders by Region
+SELECT Region,
+COUNT(*) AS Orders_Count
+FROM train_cleaned
+GROUP BY Region
+ORDER BY Orders_Count DESC;
